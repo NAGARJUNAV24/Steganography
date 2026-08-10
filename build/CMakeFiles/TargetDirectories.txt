@@ -1,0 +1,3 @@
+/home/arshlaan/projext/encrypvid/build/CMakeFiles/steganography.dir
+/home/arshlaan/projext/encrypvid/build/CMakeFiles/edit_cache.dir
+/home/arshlaan/projext/encrypvid/build/CMakeFiles/rebuild_cache.dir

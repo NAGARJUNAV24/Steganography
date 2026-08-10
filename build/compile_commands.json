@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/arshlaan/projext/encrypvid/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/steganography.dir/src/main.cpp.o -c /home/arshlaan/projext/encrypvid/src/main.cpp",
+  "file": "/home/arshlaan/projext/encrypvid/src/main.cpp"
+}
+]
